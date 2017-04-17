@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="rich-text-editer:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="rich-text-editer.war">
-      <element id="artifact" artifact-name="rich-text-editer:war exploded" />
-    </root>
-  </artifact>
-</component>
